@@ -58,7 +58,7 @@ database: 'nombre_de_tu_base_de_datos'
 3. Añade el siguiente contenido:
 4. Escribir una palabra SECRETA en el campo de SECRET=`Tu_palabra_secreta`
 
-# desarrollo
+# Desarrollo
 # Claves para dase de batos
 DB_HOST=localhost
 DB_USER='tu_usuario' (el mismo que la Base de Datos)
